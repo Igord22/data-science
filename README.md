@@ -9,3 +9,6 @@ Data Structure: https://colab.research.google.com/drive/183HeTvijO-avZGjxen-w83J
 
 Working with dates: https://colab.research.google.com/drive/1B0b-7a0I7TjBp-rmeGagpO-8fvBf9jDC?usp=sharing
 
+Data visualization: https://colab.research.google.com/drive/1mKTns-05y8y6lp_UksgAVVJRwnOcmFB8?usp=sharing
+
+Exploratory Analysis: https://colab.research.google.com/drive/1ZTQk0hLcaLP64tBedFOIL1JyMklr3bQS?usp=sharing
